@@ -1,0 +1,15 @@
+W:\DEV\TestesMensageria\Infra.Data\bin\Debug\net6.0\Infra.Data.deps.json
+W:\DEV\TestesMensageria\Infra.Data\bin\Debug\net6.0\Infra.Data.dll
+W:\DEV\TestesMensageria\Infra.Data\bin\Debug\net6.0\Infra.Data.pdb
+W:\DEV\TestesMensageria\Infra.Data\bin\Debug\net6.0\Domain.dll
+W:\DEV\TestesMensageria\Infra.Data\bin\Debug\net6.0\Domain.pdb
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\Infra.Data.csproj.AssemblyReference.cache
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\Infra.Data.AssemblyInfoInputs.cache
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\Infra.Data.AssemblyInfo.cs
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\Infra.Data.csproj.CoreCompileInputs.cache
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\Infra.Data.csproj.Up2Date
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\Infra.Data.dll
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\refint\Infra.Data.dll
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\Infra.Data.pdb
+W:\DEV\TestesMensageria\Infra.Data\obj\Debug\net6.0\ref\Infra.Data.dll

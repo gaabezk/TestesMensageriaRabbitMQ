@@ -1,0 +1,15 @@
+W:\DEV\TestesMensageria\Application\bin\Debug\net6.0\Application.deps.json
+W:\DEV\TestesMensageria\Application\bin\Debug\net6.0\Application.dll
+W:\DEV\TestesMensageria\Application\bin\Debug\net6.0\Application.pdb
+W:\DEV\TestesMensageria\Application\bin\Debug\net6.0\Domain.dll
+W:\DEV\TestesMensageria\Application\bin\Debug\net6.0\Domain.pdb
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\Applicat.44B5EDA2.Up2Date
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\Application.dll
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\refint\Application.dll
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\Application.pdb
+W:\DEV\TestesMensageria\Application\obj\Debug\net6.0\ref\Application.dll

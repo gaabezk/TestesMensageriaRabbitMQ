@@ -1,0 +1,11 @@
+W:\DEV\TestesMensageria\Domain\bin\Debug\net6.0\Domain.deps.json
+W:\DEV\TestesMensageria\Domain\bin\Debug\net6.0\Domain.dll
+W:\DEV\TestesMensageria\Domain\bin\Debug\net6.0\Domain.pdb
+W:\DEV\TestesMensageria\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+W:\DEV\TestesMensageria\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+W:\DEV\TestesMensageria\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+W:\DEV\TestesMensageria\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+W:\DEV\TestesMensageria\Domain\obj\Debug\net6.0\Domain.dll
+W:\DEV\TestesMensageria\Domain\obj\Debug\net6.0\refint\Domain.dll
+W:\DEV\TestesMensageria\Domain\obj\Debug\net6.0\Domain.pdb
+W:\DEV\TestesMensageria\Domain\obj\Debug\net6.0\ref\Domain.dll
